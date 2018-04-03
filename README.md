@@ -29,7 +29,7 @@ Esta intreface usa el monitor serial para interactuar con una SRAM 6116, la inte
 
 **Este proyecto requiere utilizar la librería de Arduino LiquidCrystal** 
 
-![Runtime_1] ( Arduino_Mega_SRAM_6116/images/Interface.png )
+![Runtime_1] (Arduino_Mega_SRAM_6116/images/Interface.png?raw=true )
 ![Runtime_2] (images/runtime_2.png)
 ![Circuit] (images/circuit.png)
 ![interface] (images/interface.png)
