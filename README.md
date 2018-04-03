@@ -29,9 +29,9 @@ Esta intreface usa el monitor serial para interactuar con una SRAM 6116, la inte
 
 **Este proyecto requiere utilizar la librería de Arduino LiquidCrystal** 
 
-#Images /Imágenes:
+# Images /Imágenes:
 
-<center><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Mega_SRAM_6116/master/images/runtime_1.png"></center>
-<center><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Mega_SRAM_6116/master/images/runtime_2.png"></center>
-<center><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Mega_SRAM_6116/master/images/circuit.png"></center>
-<center><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Mega_SRAM_6116/master/images/Interface.png"></center>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Mega_SRAM_6116/master/images/runtime_1.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Mega_SRAM_6116/master/images/runtime_2.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Mega_SRAM_6116/master/images/circuit.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Mega_SRAM_6116/master/images/Interface.png"></p>
